@@ -1,0 +1,11 @@
+{
+  "name": "bugtorio",
+  "version": "0.0.1",
+  "title": "Bugtorio",
+  "author": "Timedeige",
+  "factorio_version": "2.1",
+  "description": "Shifts resource gathering from ore patches in the ground to biters. Tame, harvest, grow, and mutate biters to increase the production of basic resources.",
+  "dependencies": [
+    "base >= 2.1.9",
+  ]
+}
