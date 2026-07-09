@@ -1,0 +1,1 @@
+In the early game #phase of [[bugtorio]] Biters are tamed, not killed. They drop excrement at a slow rate which can be improved by pollution. New nests are tamed using [[pheromone-capsules]].
