@@ -1,0 +1,1 @@
+As a broad concept, Bugtorio changes the way that resources are gathered in Factorio. It makes very little structural changes to the rest of the game, but overhauls the way resources are acquired. This can be as simple as breeding, ranching, and harvesting biters for ores and fluids, or go so far as mutating nests to change the types of biters that spawn.
