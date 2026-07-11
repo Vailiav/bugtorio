@@ -1,0 +1,1 @@
+#recipe 5x Nature Science: 20s, 1x Chitin, 5x Wood

@@ -1,0 +1,1 @@
+#technology Trigger: 5x Stone, 10x Wood, 1x Fish; Allows: [[sample collector]]

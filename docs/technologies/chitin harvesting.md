@@ -1,0 +1,1 @@
+#technology Trigger: 1x Chitin; Allows: [[chitin harvester]]

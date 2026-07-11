@@ -2,13 +2,13 @@ Ranching
 
 SCIENCE:
 
-·        Nature Science – Chitin in lore building
+·        Nature Science – Chitin in lure building
 
 TECH:
 
 ·        Trigger techs
 
-·        Pheromone extraction – Capsols to tame bitters
+·        Pheromone extraction – Capsules to tame bitters
 
 ·        Chitin processing – Chitin into everything
 
