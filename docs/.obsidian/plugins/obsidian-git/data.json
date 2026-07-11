@@ -22,7 +22,11 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
+<<<<<<< HEAD
   "basePath": "C:\\the_folder\\modding\\factorio\\bugtorio",
+=======
+  "basePath": "C:\\Users\\porte\\bugtorio\\bugtorio",
+>>>>>>> origin/main
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
