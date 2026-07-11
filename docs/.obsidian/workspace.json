@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definitions/entity.md",
+                "file": "definitions/item.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "entity"
+              "title": "item"
             }
           }
         ]
@@ -194,23 +194,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "739514f1d8a2a105",
   "lastOpenFiles": [
+    "definitions/item.md",
     "definitions/entity.md",
+    "early-game.md",
     "definitions/technology.md",
     "definitions/recipe.md",
     "items/pheromone-capsules.md",
-    "early-game.md",
     "items",
     "bugtorio.md",
     "definitions",
