@@ -1,0 +1,1 @@
+#recipe 6x Iron Ore: 3s 1x [[Chitin]]; Hand, Assembler, [[Digestion Chamber]]

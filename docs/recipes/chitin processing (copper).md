@@ -1,0 +1,1 @@
+#recipe 4x Copper Ore: 3s, 1x [[Chitin]]; Hand, Assembler, [[Digestion Chamber]]

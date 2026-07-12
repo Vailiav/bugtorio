@@ -1,0 +1,2 @@
+#recipe Pheromone Capsule: 5s, Wood 5x, Fish 1x
+#item Pheromone capsules function like slow or poison capsules, but the gas they release takes 30s to convert [[docile nest]]s it touches to [[tamed nest]]s.

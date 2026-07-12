@@ -1,0 +1,1 @@
+#technology Laboratory: 10x Automation, Nature, 10s; Allows: [[biter hopper]], [[biter depot]]

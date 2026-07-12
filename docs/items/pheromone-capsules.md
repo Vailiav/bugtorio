@@ -1,1 +1,0 @@
-#recipe Pheromone Capsule: 5s, Wood 5x, Fish 1x

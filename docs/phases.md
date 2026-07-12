@@ -1,39 +1,6 @@
-Ranching
-
-SCIENCE:
-
-·        Nature Science – Chitin in lure building
-
-TECH:
-
-·        Trigger techs
-
-·        Pheromone extraction – Capsules to tame bitters
-
-·        Chitin processing – Chitin into everything
-
-·        Lore Chest – Chests to interact with docile bitters
-
-·        Chitin harvesting
-
-BUILDINGS:
-
-·        Lore Chests – Nearby docile bugs put things on ground in the chests, very slow
-
-·        Nature Science building -
-
-·        Chitin harvester – bugs walk through and you get one chitin
-
-FEATURES:
-
-Land on a planet with nothing but rocks, trees, water and smile docile bitters, Navies without ore
-
-Fish used in crafting recipes in order to incentive bitters
-
-Craft basic buildings, get a little bit of
-
-  
-
+[[Ranching]]
+ - using basic docile biter lures to gather basic materials and research chitin processing.
+ - unlocking automation science and 
 Breeding
 
 SCIENCE:

@@ -1,0 +1,1 @@
+#technology Hand research: 10x Nature Science; Allows: [[Chitin Processing (iron)]], [[Chitin Processing (copper)]] 
