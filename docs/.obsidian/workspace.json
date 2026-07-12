@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entities/docile nest.md",
+                "file": "entities/biter hopper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docile nest"
+              "title": "biter hopper"
             }
           }
         ]
@@ -206,32 +206,32 @@
   },
   "active": "7e179d8362a04f10",
   "lastOpenFiles": [
+    "entities/biter depot.md",
+    "entities/biter hopper.md",
+    "ranching.md",
+    "phases.md",
+    "technologies/pheromone extraction.md",
+    "technologies/chitin harvesting 1.md",
+    "technologies/chitin processing 1.md",
+    "technologies/biter logistics 1.md",
+    "entities/docile nest.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "2026-07-11.md",
-    "entities/docile nest.md",
     "items/entity.md",
     "entities/sample collector.md",
     "entities/tamed nest.md",
     "entities/digestion chamber.md",
     "entities/chitin harvester.md",
-    "entities/biter depot.md",
-    "entities/biter hopper.md",
     "recipes/chitin processing (coal).md",
     "recipes/chitin processing (iron).md",
     "recipes/chitin processing (copper).md",
     "items/chitin.md",
     "definitions/recipe.md",
-    "phases.md",
-    "ranching.md",
-    "technologies/biter logistics 1.md",
     "bugtorio.md",
     "items/nature science.md",
     "items/pheromone capsules.md",
-    "technologies/chitin harvesting 1.md",
     "technologies/nature science.md",
-    "technologies/chitin processing 1.md",
-    "technologies/pheromone extraction.md",
     "recipes",
     "recipes",
     "entities",

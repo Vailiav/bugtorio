@@ -2,7 +2,11 @@
  - using basic docile biter lures to gather basic materials and research chitin processing.
  - unlocking automation science and 
 Breeding
-
+ - starts after unlocking red science, picks up when unlocking biter electricity and electric chitin harvesters
+ - start taming nests for increased efficiency and having biters perform logistics tasks
+ - part of the transition to mutation is fodder biter conversion, which makes nests which spawn special biters that drop *significant* amounts of chitin. before unlocking these slaughterhouses of some kind are unlocked, which combined allow you to create highly specialized nests that give significant chitin yield and no utility.
+Mutation
+ - starts with chemical science, characterized by injection 2, allowing biters from specialized nests to drop specific resources
 SCIENCE:
 
 ·        Automation
