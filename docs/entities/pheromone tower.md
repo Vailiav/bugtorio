@@ -1,0 +1,2 @@
+#entity Functions as an extension of the biter network, but does not provide an increase to spawning limit. 20x20 biter logistics coverage, 20 tile connection radius. #TODO maybe we code these like lightning towers? have a somewhat fluid area connection that allows biters to operate anywhere within it.
+#recipe Pheromone Tower: 2s, 5x [[Pheromone Capsule]], 2x Wooden Power Pole, 5x Iron

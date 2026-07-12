@@ -1,1 +1,1 @@
-#TODO 
+#TODO entity like the spage buildings which serves as the upgrade to chitin processing systems

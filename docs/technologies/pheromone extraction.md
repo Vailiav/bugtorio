@@ -1,1 +1,1 @@
-#technology Hand: 10x Nature Science
+#technology Hand: 10x Nature Science; Allows: [[pheromone capsule]], [[pheromone tower]]

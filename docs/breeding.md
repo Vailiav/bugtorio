@@ -1,0 +1,1 @@
+#phase Officially begins when green science is automated. The first few techs are [[biter exploitation 1]], [[chitin harvesting 2]], and [[biter logistics 2]]. These technologies lean away from primitive resource collection towards more permanent, electronic methods. 
