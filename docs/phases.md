@@ -8,29 +8,9 @@
  - make nests into different types, which spawn new breeds of biters specialized towards specific tasks
 Mutation
  - starts with chemical science, characterized by injection 2, allowing biters from specialized nests to drop specific resources
-
-ENTITIES:
-
-·        Runners – Take items from depos and put in machines/hopper
-
-·        Collectors – pick items off ground and put in chest
-
-Mutating
-
-Chemical Science
-
-  
-
-Exploiting
-
-Utilization and production science
-
-  
-
-Late game/scaling
-
-Post space science
-
-Unlock tech for own bitter placement, scaling tools
-
-END: apotheosis for bitters or you make a clone of you to colonize bitters on another planet
+Exploitation
+ - starts with either production or utility science. 
+ - production science grants the "matrix style" tier 4 stock biter nest
+ - utility science gets tier 4 logistics biters and freight biters
+End
+ - Winning the game. Mostly takes place after the rocket launch. Either reaching apotheosis for biters or constructing a launch rocket. 
