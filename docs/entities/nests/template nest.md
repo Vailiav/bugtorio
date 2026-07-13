@@ -1,0 +1,1 @@
+All nests will have two stats: tier and type. The type of nest determines the type of biter that nest spawns on spawn trigger, and the tier of the nest determines the stats of the biter it spawns. 

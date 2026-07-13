@@ -1,2 +1,2 @@
 #entity 2x1, No power usage. Attaches to a building (pointed in or out) and functions like a loader. Items in the chest are placed into the building. Biters will drop items from their inventory into a hopper which is requesting those items. Their requests are automatically set by the building they are attached to if they point into it, and otherwise their contents are made available to the biter network. Variable inventory, with the requests automatically set by the machine.
-#recipe 3x Biter Hopper: 1x Biter Depot, 1x [[Chitin]], 1x Iron Chest
+#recipe 3x Biter Hopper: 1x Biter Depot, 1x [[spitter chitin]], 1x Iron Chest
