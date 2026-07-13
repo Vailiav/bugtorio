@@ -1,0 +1,1 @@
+Freight critters transport freight containers from freight station to freight station. These have wait conditions and target freight stations just like trains. Freight containers can be placed wherever, interacted with wherever, but can only be picked up at and returned to freight stations.
