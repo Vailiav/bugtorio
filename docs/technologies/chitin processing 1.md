@@ -1,1 +1,2 @@
+#prerequisites [[chitin harvesting 1]], [[nature science (tech)]], 
 #technology Hand research: 10x Nature Science; Allows: [[biter chitin processing (iron)]], [[spitter chitin processing (copper)]], [[digestion chamber 1]]

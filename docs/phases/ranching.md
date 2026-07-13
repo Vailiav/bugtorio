@@ -6,4 +6,6 @@ In the beginning, there are three resources to collect to trigger the [[sample c
 
 There are a few technologies done by hand (akin to Nullius early game) which help slightly with scaling in this phase, and which the rest of the game depends on. [[chitin processing 1]] allows the player to process [[spitter chitin]]/[[biter chitin]] into copper/iron ore. [[biter logistics 1]] allows the player to craft chests which biters interact with to provide simple logistic solutions. [[Pheromone extraction]] allows crafting capsules which turn [[docile nest]]s into [[tamed nest]]s. 
 
+Near the end of this phase, [[biter enhancement 1]] will be researched with nature and red science. 
+
 Once automation science packs are unlocked (via vanilla Factorio methods), the mod proceeds to the [[breeding]] phase.

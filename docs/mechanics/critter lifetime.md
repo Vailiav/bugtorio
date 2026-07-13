@@ -1,0 +1,3 @@
+Critters all have slightly variable but ranged lifetimes. At the end of their life, they collapse and die just like any critter normally would. 
+
+The purpose of this mechanic is to make a critter factory feel dynamic and alive. Instead of the cold precision of machinery, critter networks lean into the nature of automation on a community-wide scale. While still inherently unrealistic, this mod is created for fun, and this is a mechanic that distills the environment of the mod therefore increasing fun.
