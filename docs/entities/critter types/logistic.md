@@ -1,0 +1,1 @@
+Logistics critters are the first mutation stage critter. they are highly specialized towards logistics, very small, incredibly fast, and with slightly smaller carry capacities than runners. Their nests also boast the highest critter support of any nest in the game, meaning that just a few nests can support incredible amounts of critters. 
