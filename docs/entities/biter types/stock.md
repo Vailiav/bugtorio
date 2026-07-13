@@ -1,0 +1,1 @@
+Stocks are meant to be the primary source of chitin. #TODO they have significant nerfs to speed and capacity, with heavily increased chitin yield. The mining prod researches in vanilla affect stock critters, giving them a multiplicative chitin yield bonus.

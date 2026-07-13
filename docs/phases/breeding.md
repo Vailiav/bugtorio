@@ -1,0 +1,5 @@
+#phase Officially begins when green science is automated. The first few techs are [[biter exploitation 1]], [[chitin harvesting 2]], and [[biter logistics 2]]. These technologies lean away from primitive resource collection towards more permanent, electronic methods. 
+
+This phase is intended to be variable in length, kind of like red/green science only is in base. The player can choose to fully refactor and spend lots of time here, or rush chemical science and proceed to the mutation phase.
+
+The technology that defines the breeding phase is [[nest conversion 1]], which unlocks the ability to convert nests to [[runner nest]]s, [[collector nest]]s, and [[stock nest]]s. This process uses the first type of [[injector]], which is in this case a paste, but referred to internally as an injector. 

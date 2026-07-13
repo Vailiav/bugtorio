@@ -1,1 +1,1 @@
-#recipe 5x Nature Science: 20s, 1x Chitin, 5x Wood
+#recipe 10x Nature Science: 20s, 1x [[Biter Chitin]], 1x [[Spitter Chitin]], 5x Wood; Assembler, [[Digestion Chamber 1]]

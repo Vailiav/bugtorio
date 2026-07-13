@@ -1,0 +1,1 @@
+Runners take items from depots to hoppers, #TODO they have increased base stats for speed and decreased idle chance, as well as decreased chitin yield.
