@@ -1,0 +1,1 @@
+#recipe 10x Coal: 6s, 1x [[Spitter Chitin]], 2x Wood; Hand, [[Digestion Chamber 1]]

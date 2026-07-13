@@ -1,1 +1,1 @@
-#technology Hand research: 10x Nature Science; Allows: [[Chitin Processing (iron)]], [[Chitin Processing (copper)]], [[digestion chamber 1]]
+#technology Hand research: 10x Nature Science; Allows: [[biter chitin processing (iron)]], [[spitter chitin processing (copper)]], [[digestion chamber 1]]

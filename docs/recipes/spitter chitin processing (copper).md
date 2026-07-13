@@ -1,0 +1,1 @@
+#recipe 4x Copper Ore: 3s, 1x [[Spitter Chitin]]; Hand, [[Digestion Chamber 1]]

@@ -1,0 +1,1 @@
+#recipe 10x Stone: 6s, Iron Ore; [[Digestion Chamber 1]]
