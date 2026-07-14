@@ -1,1 +1,1 @@
-#technology 
+#technology 30x30s Nature, Automation; Allows [[nest injector (tier 1)]]
