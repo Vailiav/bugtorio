@@ -8,4 +8,4 @@ There are a few technologies done by hand (akin to Nullius early game) which hel
 
 Near the end of this phase, [[biter enhancement 1]] will be researched with nature and red science, which makes nests into their tier 1 version, spawning medium critters. 
 
-Once automation science packs are unlocked (via vanilla Factorio methods), the mod proceeds to the [[breeding]] phase.
+Once automation science packs are unlocked (via vanilla Factorio methods), the mod proceeds to the [[breeding]] phase. 
