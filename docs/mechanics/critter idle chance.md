@@ -1,0 +1,1 @@
+Idle chance is a stat of every critter. Every 180 ticks while idling, critters have a chance to claim a task. After completing a task, critters have a chance (expressed as a number between 0-1, with 1 being guaranteed and 0 being never) to idle for at least 180 ticks. 

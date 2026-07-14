@@ -1,0 +1,1 @@
+When pathing within 5 tiles of a friendly corpse, critters have a chance to stop and "mourn" that corpse for a short downtime. For the player corpse, this is almost 100%, and for enemy corpses it is 0%. Friendly corpses should have a varying chance, with nests having the highest chance. 
