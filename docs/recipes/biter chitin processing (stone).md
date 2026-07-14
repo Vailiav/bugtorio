@@ -1,1 +1,1 @@
-#recipe 10x Stone: 6s, 2x Iron Ore; [[Digestion Chamber 1]]
+#recipe 10x Stone: 6s, 2x Iron Ore; [[agitator 1]]

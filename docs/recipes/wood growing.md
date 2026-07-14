@@ -1,1 +1,1 @@
-#recipe 2x Wood: 20s, 1x Wood; [[Digestion Chamber 1]]
+#recipe 2x Wood: 20s, 1x Wood; [[agitator 1]]
