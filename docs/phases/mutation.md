@@ -1,3 +1,3 @@
 #phase Starting right after chemical science has been automated, this is the third phase of the game. Mutating phase represents a tonal shift; critters will begin to deviate more from their origins, sometimes in extreme ways, but still remain organic. Early critter tech is this phase will be [[critter exploitation 3]], [[chitin harvesting 3]] and [[critter logistics 3]]. These techs unlock increase the efficiency of processes, without being invasive.
 
-This phase is intended to represent the limit that purely biological bitters can reach. This phase is intended to be of variable length, much as the
+This phase is intended to represent the limit that purely biological bitters can reach. 
