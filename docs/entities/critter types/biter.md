@@ -1,0 +1,1 @@
+A biter is a basic [[critter]]. They attack only through melee attacks
