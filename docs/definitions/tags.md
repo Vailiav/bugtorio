@@ -1,1 +1,1 @@
-#technology #item #entity #phase #prerequisites #recipe #technology #TODO #logistics #prodduction #intermediate #combat #fluids #enemies 
+#technology #item #entity #phase #prerequisites #recipe #technology #TODO #logistics #prodduction #intermediate #combat #fluids #enemies #basic 
