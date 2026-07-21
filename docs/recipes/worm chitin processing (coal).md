@@ -1,0 +1,1 @@
+#recipe 10x Coal: 6s, 1x [[worm chitin]], 2x Wood; Hand, [[agitator 1]]
