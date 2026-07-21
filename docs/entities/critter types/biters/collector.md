@@ -5,5 +5,5 @@ Nest: tier 1
 Able to move things from ground to depos. More carrying capacity compared to any bitter in this tier. Long downtime between tasks.
 
 Tier 2
-Nest: Tier 2
+Nest: tier 2
 Able to move things from ground to depos. Increase carrying capacity. Less downtime between tasks. Slight speed boost.
