@@ -1,0 +1,1 @@
+These critters will attempt to attack the player or buildings.
