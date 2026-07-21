@@ -1,1 +1,1 @@
-A critter is a non
+A critter is a non-human entity within the game. It can refer to any combination of biter, spitter or worm.
