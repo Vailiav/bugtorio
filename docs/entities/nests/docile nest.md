@@ -1,1 +1,2 @@
-#entity Docile nests are the nests that spawn at the start of the game. As they absorb pollution, they become [[hostile nest]]s of their prior level. Hostile nests spawn attack groups as normal. 
+#entity
+Docile nests are the nests that spawn at the start of the game. As they absorb pollution, they become [[hostile nest]]s of their prior level. Hostile nests spawn attack groups as normal. 
