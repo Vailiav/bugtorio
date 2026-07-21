@@ -1,1 +1,2 @@
-#item A raw resource which drops passively from spitters and is harvested from their corpse when they die. Primarily an intermediary product used in making the other raw resources as well as in specific recipes.
+#item 
+A raw resource which drops passively from spitters and is harvested from their corpse when they die. Primarily an intermediary product used in making the other raw resources as well as in specific recipes.

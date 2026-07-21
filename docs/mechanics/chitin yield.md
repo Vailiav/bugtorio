@@ -1,0 +1,1 @@
+This is the random chance that any [[critter]] will drop chitin according to its type. All critters have the chance to drop chitin.
