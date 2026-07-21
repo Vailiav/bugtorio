@@ -1,4 +1,5 @@
-In the [[ranching]] #phase of [[Bugtorio]] Biters are tamed, not killed. On occasion, they drop chitin, but chitin can also be intentionally sloughed off by a [[chitin harvester]]. [[items/nature science]] is created by a [[sample collector]], and is used to do the early researches by hand.
+#phase
+In the [[ranching]] phase of [[Bugtorio]] Biters are tamed, not killed. On occasion, they drop chitin, but chitin can also be intentionally sloughed off by a [[chitin harvester]]. [[items/nature science]] is created by a [[sample collector]], and is used to do the early researches by hand.
 
 This phase is intended to be very short depending on how experienced players are with the mod, akin to using burner miners to acquire early red science.
 
