@@ -1,1 +1,3 @@
 Collectors take items from the ground within the biter network to depots. #TODO they have a small bonus to speed, and a great bonus to carrying capacity. 
+
+Tier 1
